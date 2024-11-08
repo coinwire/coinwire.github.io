@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('background.png'); /* Make sure to provide the correct path to your PNG */
+    background-image: url('/images/rocket.jpeg'); /* Make sure to provide the correct path to your PNG */
     background-size: cover;
     color: #fff;
 }
