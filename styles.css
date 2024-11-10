@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('/images/rocket.jpeg'); /* Make sure to provide the correct path to your PNG */
-    background-size: contain;
+    background-size: auto;
     color: #fff;
 }
 
