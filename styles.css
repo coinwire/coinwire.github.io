@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('/images/cyberspace-3d-rendering-of-a-digital-network-connection.jpg'); /* Make sure to provide the correct path to your PNG */
-    background-size: contain;
+    background-size: cover;
     color: #fff;
 }
 
