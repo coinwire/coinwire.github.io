@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('/images/coinwire-design.jpeg'); /* Make sure to provide the correct path to your PNG */
-    background-size: cover;
+    background-size: contain;
     color: #fff;
 }
 
