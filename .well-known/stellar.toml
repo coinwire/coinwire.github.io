@@ -1,26 +1,26 @@
 # coinwire <coinwire.github.io>
 VERSION="2.2.0"
-NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 ""
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
+ORG_NAME="Coinwire"
 ORG_URL="https://coinwire.github.io/"
-ORG_LOGO ="https://coinwire.github.io/img/logo.png"
+ORG_LOGO="https://coinwire.github.io/images/logo.jpeg"
 ORG_DESCRIPTION="The website offers detailed guides and tutorials on how to create and manage trust lines, as well as information on the benefits associated with using trustlines. Users can also find information on the latest updates and developments in the Stellar.Expert related to trustlines."
 
 [[CURRENCIES]]
-code =""
-name =""
-issuer = ""
+code=""
+name=""
+issuer=""
 is_asset_anchored=false
-display_decimals = 7
+display_decimals=7
 desc=""
 image=""
 conditions=""
 status="live"
 anchor_asset_type=""
-fixed_number=1000000000
+fixed_number=10000000000
