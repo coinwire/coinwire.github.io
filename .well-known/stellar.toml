@@ -3,7 +3,7 @@ VERSION="2.2.0"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-""
+"GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
 ]
 
 [DOCUMENTATION]
@@ -13,14 +13,1017 @@ ORG_LOGO="https://coinwire.github.io/images/logo.jpeg"
 ORG_DESCRIPTION="The website offers detailed guides and tutorials on how to create and manage trust lines, as well as information on the benefits associated with using trustlines. Users can also find information on the latest updates and developments in the Stellar.Expert related to trustlines."
 
 [[CURRENCIES]]
-code=""
-name=""
-issuer=""
-is_asset_anchored=false
-display_decimals=7
-desc=""
-image=""
-conditions=""
+code="BTC"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
 status="live"
-anchor_asset_type=""
-fixed_number=10000000000
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="BTC"
+name="Bitcoin"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+
+[[CURRENCIES]]
+code="ETH"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="ETH"
+name="Ethereum"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+
+[[CURRENCIES]]
+code="USDT"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="USDT"
+name="Tether"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary.. PrimeHumb promises to buy each Tether at the value of 1 USDT."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+
+[[CURRENCIES]]
+code="BNB"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="BNB"
+name="BNB"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+
+[[CURRENCIES]]
+code="USDC"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="USDC"
+name="USD Coin"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+
+[[CURRENCIES]]
+code="XRP"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="XRP"
+name="XRP"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"
+
+[[CURRENCIES]]
+code="ADA"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="ADA"
+name="Cardano"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png"
+
+[[CURRENCIES]]
+code="DOGE"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="DOGE"
+name="Dogecoin"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+
+[[CURRENCIES]]
+code="MATIC"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="MATIC"
+name="Polygon"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+
+[[CURRENCIES]]
+code="SOL"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="SOL"
+name="Solana"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+
+[[CURRENCIES]]
+code="DOT"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="DOT"
+name="Polkadot"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+
+[[CURRENCIES]]
+code="BUSD"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="BUSD"
+name="Binance USD"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+
+[[CURRENCIES]]
+code="LTC"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="LTC"
+name="Litecoin"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+
+[[CURRENCIES]]
+code="SHIB"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="SHIB"
+name="Shiba Inu"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
+
+[[CURRENCIES]]
+code="TRX"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="TRX"
+name="TRON"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
+
+[[CURRENCIES]]
+code="AVAX"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="AVAX"
+name="Avalanche"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png"
+
+[[CURRENCIES]]
+code="DAI"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="DAI"
+name="Dai"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+
+[[CURRENCIES]]
+code="WBTC"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="WBTC"
+name="Wrapped Bitcoin"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+
+[[CURRENCIES]]
+code="LINK"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="LINK"
+name="Chainlink"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"
+
+[[CURRENCIES]]
+code="UNI"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="UNI"
+name="Uniswap"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+
+[[CURRENCIES]]
+code="LEO"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="LEO"
+name="UNUS SED LEO"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png"
+
+[[CURRENCIES]]
+code="ATOM"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="ATOM"
+name="Cosmos"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
+
+[[CURRENCIES]]
+code="XMR"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="XMR"
+name="Monero"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/328.png"
+
+[[CURRENCIES]]
+code="ETC"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="ETC"
+name="Ethereum Classic"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png"
+
+[[CURRENCIES]]
+code="XLM"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="XLM"
+name="Stellar"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
+
+[[CURRENCIES]]
+code="TON"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="TON"
+name="Toncoin"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png"
+
+[[CURRENCIES]]
+code="OKB"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="OKB"
+name="OKB"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png"
+
+[[CURRENCIES]]
+code="BCH"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="BCH"
+name="Bitcoin Cash"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+
+[[CURRENCIES]]
+code="FIL"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="FIL"
+name="Filecoin"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+
+[[CURRENCIES]]
+code="TUSD"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="TUSD"
+name="TrueUSD"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png"
+
+[[CURRENCIES]]
+code="LDO"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="LDO"
+name="Lido DAO"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png"
+
+[[CURRENCIES]]
+code="APT"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="APT"
+name="Aptos"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/21794.png"
+
+[[CURRENCIES]]
+code="HBAR"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="HBAR"
+name="Hedera"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png"
+
+[[CURRENCIES]]
+code="VET"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="VET"
+name="VeChain"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png"
+
+[[CURRENCIES]]
+code="CRO"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="CRO"
+name="Cronos"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png"
+
+[[CURRENCIES]]
+code="NEAR"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="NEAR"
+name="NEAR Protocol"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png"
+
+[[CURRENCIES]]
+code="ALGO"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="ALGO"
+name="Algorand"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png"
+
+[[CURRENCIES]]
+code="APE"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="APE"
+name="ApeCoin"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png"
+
+[[CURRENCIES]]
+code="ARB"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="ARB"
+name="Arbitrum"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png"
+
+[[CURRENCIES]]
+code="ICP"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="ICP"
+name="Internet Computer"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png"
+
+[[CURRENCIES]]
+code="QNT"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="QNT"
+name="Quant"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png"
+
+[[CURRENCIES]]
+code="EOS"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="EOS"
+name="EOS"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png"
+
+[[CURRENCIES]]
+code="GRT"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="GRT"
+name="The Graph"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png"
+
+[[CURRENCIES]]
+code="FTM"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="FTM"
+name="Fantom"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png"
+
+[[CURRENCIES]]
+code="MANA"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="MANA"
+name="Decentraland"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png"
+
+[[CURRENCIES]]
+code="STX"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="STX"
+name="Stacks"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png"
+
+[[CURRENCIES]]
+code="AAVE"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="AAVE"
+name="Aave"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
+
+[[CURRENCIES]]
+code="BIT"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="BIT"
+name="BitDAO"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/11221.png"
+
+[[CURRENCIES]]
+code="THETA"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="THETA"
+name="Theta Network"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png"
+
+[[CURRENCIES]]
+code="XTZ"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="XTZ"
+name="Tezos"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png"
+
+[[CURRENCIES]]
+code="CFX"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="CFX"
+name="Conflux"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png"
+
+[[CURRENCIES]]
+code="EGLD"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="EGLD"
+name="MultiversX"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png"
+
+[[CURRENCIES]]
+code="INJ"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="INJ"
+name="Injective"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png"
+
+[[CURRENCIES]]
+code="IMX"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="IMX"
+name="Immutable"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png"
+
+[[CURRENCIES]]
+code="KAS"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="KAS"
+name="Kaspa"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/20396.png"
+
+
+[[CURRENCIES]]
+code="OP"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="OP"
+name="Optimism"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png"
+
+
+[[CURRENCIES]]
+code="TIA"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="TIA"
+name="Celestia"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png"
+
+[[CURRENCIES]]
+code="RUNE"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="RUNE"
+name="Celestia"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png"
+
+[[CURRENCIES]]
+code="MNT"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="MNT"
+name="Mantle"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png"
+
+[[CURRENCIES]]
+code="FDUSD"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="FDUSD"
+name="First Digital USD"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/26081.png"
+
+[[CURRENCIES]]
+code="RNDR"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="RNDR"
+name="Render"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/5690.png"
+
+[[CURRENCIES]]
+code="HNT"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="HNT"
+name="Helium"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png"
+
+[[CURRENCIES]]
+code="TRB"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="TRB"
+name="Tellor"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/4944.png"
+
+[[CURRENCIES]]
+code="FXS"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="FXS"
+name="Frax Share"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png"
+
+[[CURRENCIES]]
+code="USDD"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="USDD"
+name="USDD"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/19891.png"
+
+[[CURRENCIES]]
+code="KAVA"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="KAVA"
+name="KAVA"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png"
+
+[[CURRENCIES]]
+code="KCS"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="KCS"
+name="KuCoin Token"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png"
+
+[[CURRENCIES]]
+code="CFX"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="CFX"
+name="Conflux"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png"
+
+[[CURRENCIES]]
+code="RPL"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="RPL"
+name="Rocket Pool"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/2943.png"
+
+[[CURRENCIES]]
+code="LUNA"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="LUNA"
+name="Terra"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/20314.png"
+
+[[CURRENCIES]]
+code="GMT"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="GMT"
+name="GMT"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/18069.png"
+
+[[CURRENCIES]]
+code="ZEC"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="ZEC"
+name="Zcash"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png"
+
+[[CURRENCIES]]
+code="GAS"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="GAS"
+name="Gas"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/1785.png"
+
+[[CURRENCIES]]
+code="PAXG"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="PAXG"
+name="PAX Gold"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png"
+
+[[CURRENCIES]]
+code="BTG"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="BTG"
+name="Bitcoin Gold"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/2083.png"
+
+[[CURRENCIES]]
+code="YFI"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="YFI"
+name="yearn.finance"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png"
+
+[[CURRENCIES]]
+code="MEME"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="MEME"
+name="Memecoin"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/28301.png"
+
+[[CURRENCIES]]
+code="DAO"
+issuer="GAEBJJGA274V7GPU7RYLABE3HWYXSLMZ344HRO2ZUEID7IMM2FXMYRHT"
+status="live"
+display_decimals=3
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="DAO"
+name="DAO Maker"
+desc="Please take sufficient time to read the Client Agreement as well as any other additional documentation and information available to you via our Website prior to opening an account and/or carrying out any activity with us. You should contact us for any further clarification, or seek independent professional advice, if necessary."
+conditions="Withdrawals fee may apply~!"
+image="https://s2.coinmarketcap.com/static/img/coins/64x64/8420.png"
